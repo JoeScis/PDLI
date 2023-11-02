@@ -9,27 +9,27 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: PDLI
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: plan.do.learn.iterate # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A work-in-progress.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://joescis.github.io/PDLI"
 
 github:
   username: joescis # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: joescis # change to your twitter username
 
 social:
   # Change to your full name.
